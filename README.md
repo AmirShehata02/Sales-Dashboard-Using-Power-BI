@@ -25,5 +25,4 @@ This Power BI dashboard provides an in-depth analysis of sales data, helping bus
 - Power BI Desktop (latest version recommended)
 - Access to the sales dataset (if not embedded within the file)
 
-Feel free to contribute or suggest improvements to enhance the dashboard!
 
